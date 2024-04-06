@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message SampleData{
+    string greeting = 1;
+}
